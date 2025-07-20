@@ -17,5 +17,4 @@ OpenPyXL
 NumPy
 Jupyter Notebook
 
-[Uploading logistic_03.ipynb…]()
-[Expected_Results.xlsx](https://github.com/user-attachments/files/21332294/Expected_Results.xlsx
+[Expected_Results.xlsx](https://github.com/user-attachments/files/21332302/Expected_Results.xlsx)
